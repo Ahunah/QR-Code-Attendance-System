@@ -105,12 +105,19 @@ The mobile app is built using **Sketchware Pro**, making the system simple, ligh
 
 ### Lecturer / Admin UI
 <img width="762" height="631" alt="login" src="https://github.com/user-attachments/assets/41b5e402-9f95-4a74-bf4e-74471c90d073" />
+
 <img width="977" height="781" alt="register" src="https://github.com/user-attachments/assets/95ffa167-a386-432e-b030-a1eaaeb4f11e" />
+
 <img width="1695" height="1023" alt="lect qr" src="https://github.com/user-attachments/assets/92743281-a9ce-4b9b-8ecb-c5d38fa8881d" />
+
 <img width="1455" height="817" alt="qr visible" src="https://github.com/user-attachments/assets/cc914bdd-cd52-45dd-ba77-9198b40bb627" />
+
 <img width="1532" height="715" alt="time over qr not visible" src="https://github.com/user-attachments/assets/c01fdf55-2386-4c30-9360-f599656c876e" />
+
 <img width="1737" height="546" alt="student records" src="https://github.com/user-attachments/assets/67d8fdfc-c296-4f65-83a8-e8a5fb83b65a" />
+
 <img width="1500" height="922" alt="down report" src="https://github.com/user-attachments/assets/2fb9d7bf-b7a5-4f7e-9a00-5cc618b79e83" />
+
 <img width="990" height="403" alt="report" src="https://github.com/user-attachments/assets/63840d7f-1a18-4088-befa-08a8cb33b0aa" />
 
 ### Student
@@ -122,10 +129,15 @@ The mobile app is built using **Sketchware Pro**, making the system simple, ligh
 ### Screenshot of Student UI
 
 ![IMG-20250903-WA0032](https://github.com/user-attachments/assets/c6b05803-9295-4e86-81fc-613c805475da)
+
 ![IMG-20250903-WA0032 (3)](https://github.com/user-attachments/assets/085bbeeb-ed90-41f3-874e-fda4765d1ab6)
+
 ![IMG-20250903-WA0032 (3)](https://github.com/user-attachments/assets/ad09ba6d-8dac-447c-9837-d0066b3588c8)
+
 ![IMG-20250903-WA0032 (4)](https://github.com/user-attachments/assets/af710f2c-5a2c-4d68-9850-e1ee6a101319)
+
 ![IMG-20250903-WA0032 (5)](https://github.com/user-attachments/assets/d3e330f7-353e-4135-9eea-581d34d407ef)
+
 ![IMG-20250903-WA0032 (6)](https://github.com/user-attachments/assets/8267ed18-e8c4-40f2-ba4b-0f9cea883a31)
 
 
