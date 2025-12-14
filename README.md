@@ -108,6 +108,7 @@ The mobile app is built using **Sketchware Pro**, making the system simple, ligh
 * Register and login
 * Scan QR Code during lecture
 * Attendance is marked automatically
+![IMG-20250903-WA0032 (3)](https://github.com/user-attachments/assets/085bbeeb-ed90-41f3-874e-fda4765d1ab6)
 
 ---
 
